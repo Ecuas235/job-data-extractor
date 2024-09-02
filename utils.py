@@ -42,4 +42,5 @@ def get_headers():
         'Accept-Language': get_random_languages(),
         'Accept-Encoding': 'gzip, deflate, br',
         'Connection': get_random_connection(),
-        'Referer': get_random_referers()}  
+        'Referer': get_random_referers()
+        }  
